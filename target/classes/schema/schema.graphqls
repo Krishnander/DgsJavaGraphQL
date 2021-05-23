@@ -1,0 +1,17 @@
+type Query {
+    battles(nameFilter : String) : [Battle]
+}
+
+type Battle {
+    year:Int
+    name:String
+    king:String
+    armySize:[Legions]
+}
+
+type Legions {
+    infantry:Int
+    cavalry:Int
+    commander:String
+    battleField:String
+}

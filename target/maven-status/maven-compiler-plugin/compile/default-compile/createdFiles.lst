@@ -1,0 +1,6 @@
+com/dgs/demoApp/GraphQlDemoAppApplication.class
+com/dgs/demoApp/domain/Battle$BattleBuilder.class
+com/dgs/demoApp/domain/Legions.class
+com/dgs/demoApp/DataFetchers/BattleDataFetcher.class
+com/dgs/demoApp/domain/Battle.class
+com/dgs/demoApp/domain/Legions$LegionsBuilder.class
